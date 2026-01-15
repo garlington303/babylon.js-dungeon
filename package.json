@@ -1,0 +1,22 @@
+{
+  "name": "babylonjs-dungeon-crawler",
+  "version": "0.1.0",
+  "description": "First person dungeon crawler made in babylon.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "echo 'Start script not yet implemented'",
+    "build": "echo 'Build script not yet implemented'",
+    "dev": "echo 'Dev script not yet implemented'",
+    "test": "echo 'Test script not yet implemented'"
+  },
+  "keywords": [
+    "babylonjs",
+    "game",
+    "dungeon-crawler",
+    "first-person"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
