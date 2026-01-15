@@ -1,5 +1,5 @@
 # babylon.js-dungeon
-First person dungeon crawler made in babylon.js
+2.5d octopath style dungeon crawler
 
 ## Project Structure
 
